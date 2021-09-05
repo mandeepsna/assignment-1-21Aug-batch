@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding:0px
+}
+.container
+{
+    
+    text-align: center;
+   background-color: black;
+   padding-top: 90px;
+    color: rgb(230, 213, 213);
+    height: 550px;
+    width: 1225px;
+}
+.container-biography
+{
+    color: rgb(230, 213, 213);
+    height: 550px;
+    width: 1225px;
+    background-color: black;
+    margin-top: 10px;
+    
+    padding-top: 30px;
+}
+
+div.container-biography h1
+{
+    padding-left: 300px;
+    padding-bottom: 50px;
+
+}
+div.container-biography p
+{
+    padding-left: 300px;
+    padding-right: 500px;
+}
+div.container-biography hr
+{
+    width:470px;
+    margin-left: 268px;
+}
+div.container-biography h5
+
+{
+    margin-left:450px;
+    margin-top: 50px;
+}
