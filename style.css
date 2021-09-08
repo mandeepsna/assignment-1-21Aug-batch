@@ -10,13 +10,13 @@
    padding-top: 90px;
     color: rgb(230, 213, 213);
     height: 550px;
-    width: 1225px;
+    width: 100%;
 }
 .container-biography
 {
     color: rgb(230, 213, 213);
     height: 550px;
-    width: 1225px;
+    width:100%;
     background-color: black;
     margin-top: 10px;
     
@@ -36,12 +36,12 @@ div.container-biography p
 }
 div.container-biography hr
 {
-    width:470px;
+    width:400px;
     margin-left: 268px;
 }
 div.container-biography h5
 
 {
-    margin-left:450px;
-    margin-top: 50px;
+    margin-left:350px;
+    margin-top: 30px;
 }
